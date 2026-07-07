@@ -1,5 +1,4 @@
-Here is a complete, professional, and scannability-optimized README.md layout for your GitHub portfolio. It is designed to instantly prove to recruiters that you understand both the software logic and the physical reality of the frontier level.
-------------------------------
+
 ## Frontier Quantum Architecture: Simulating Entanglement & Noise Mitigation
 This repository contains proof of concept quantum circuit design using Google's open-source Cirq framework. The project creates a maximally entangled two-qubit state (Bell State) and simulates its execution on both an ideal quantum processor and a noisy quantum environment.
 ## 🛠️ The Core Architecture
